@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mFilterCheckerTests:[0m[0m
-[0m[[0minfo[0m] [0m[32mFilterChecker passed a list where one file matches the filter[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return  a list with that file[0m[0m
-[0m[[0minfo[0m] [0m[32mFilterChecker passed a list with a directory that matches the filter[0m[0m
-[0m[[0minfo[0m] [0m[32m- should sould not return the directory[0m[0m

@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m[32mTestList:[0m[0m
-[0m[[0minfo[0m] [0m[32mThis one[0m[0m
-[0m[[0minfo[0m] [0m[31m- should return a list with that file name *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  2 did not equal 1 (TestList.scala:10)[0m[0m
