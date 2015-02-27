@@ -56,8 +56,6 @@ target/
 lib_managed/
 src_managed/
 project/boot/
-.history
-.cache
 
 
 ### Scala template
@@ -69,10 +67,6 @@ project/boot/
 .history
 .lib/
 dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
 project/plugins/project/
 
 # Scala-IDE specific
@@ -83,16 +77,12 @@ project/plugins/project/
 
 bin
 classes
-.idea
 testFiles
 project
-target
 DATA - 2.txt
-Test.iml
-test.properties
+build.properties
 HelloSbt.scala
 .classpath
-build.sbt
 DATA.txt
 module_test.xml
 .project
